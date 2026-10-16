@@ -4,7 +4,7 @@ Classify Chicago hotel reviews as `truthful` or `deceptive`. Notebook: `text_cla
 
 ## Data
 
-`../LogisticRegression_SpamOpinion/Datos/deceptive-opinion.csv`
+[Deceptive Opinion Spam Corpus](https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus) (Ott et al.), file `deceptive-opinion.csv`.
 
 1,600 reviews. 800 truthful, 800 deceptive. 400 positive and 400 negative inside each class.
 
